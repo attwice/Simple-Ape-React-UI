@@ -1,0 +1,86 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Gilroy;
+  padding-left: 6.25%;
+  padding-right: 6.25%;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white !important;
+}
+
+.gradtxt {
+  background: -webkit-linear-gradient(-90deg, #0a76ce, #07d044);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradbtn {
+  background: linear-gradient(180deg, #0a50ce 2.08%, #07d044 91.67%);
+  border-radius: 10px;
+  width: fit-content;
+}
+
+.gradbtn:hover {
+  background: url("../images/frame.png");
+  cursor: pointer;
+  background-size: 100% 100%;
+}
+
+.font-ms {
+  font-family: monospace;
+}
+
+.f-120 {
+  font-size: 120px;
+}
+
+.f-70 {
+  font-size: 70px;
+}
+
+.f-63 {
+  font-size: 63px;
+}
+
+.f-50 {
+  font-size: 50px;
+}
+
+.f-29 {
+  font-size: 29px;
+}
+
+.f-23 {
+  font-size: 23px;
+}
+
+.f-20 {
+  font-size: 20px;
+}
+
+.f-18 {
+  font-size: 18px;
+}
+
+.mt-150 {
+  margin-top: 150px;
+}
+
+.mt-300 {
+  margin-top: 300px;
+}
+
+.mb-300 {
+  margin-bottom: 300px;
+}
+
+.pb-150 {
+  padding-bottom: 150px;
+}

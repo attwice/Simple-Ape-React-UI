@@ -1,0 +1,167 @@
+.topbg {
+  background: url("../images/topbg.png");
+  background-size: 100% 100%;
+}
+
+.logotlt {
+  position: relative;
+  bottom: -50px;
+  color: #06d043;
+  font-weight: bold;
+  line-height: 3rem;
+  font-family: monospace;
+}
+
+.navbar {
+  position: relative;
+  top: -50px;
+}
+
+.navitemtxt {
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.navitemtxt:hover {
+  color: #00ff00;
+  background: url("../images/Vector\ 5.png");
+  background-size: cover;
+}
+
+.navbtn {
+  padding: 8px 25px 8px;
+}
+
+.fadecircle {
+  background: url("../images/Group 154.png");
+  background-size: 100% 100%;
+  padding: 10%;
+}
+
+.editimg {
+  width: 100%;
+}
+
+.form-mg {
+  margin-top: 160px;
+}
+
+.ape {
+  background: url("../images/Group\ 102.png") no-repeat;
+  background-size: 80% 80%;
+  background-position: 100% 100%;
+  top: 20%;
+}
+
+.ournftbg {
+  background: url("../images/Vector\ 5.png") no-repeat;
+  background-size: contain;
+  background-position: 55%;
+}
+.react-multiple-carousel__arrow {
+  position: absolute;
+  top: 290px;
+  background: oldlace;
+  color: grey;
+  min-width: 20px;
+  min-height: 20px;
+  padding: 2px;
+}
+
+.react-multiple-carousel__arrow:hover {
+  background: grey;
+}
+
+.react-multiple-carousel__arrow::before {
+  font-size: 10px;
+  color: #111111;
+  display: block;
+  font-family: revicons;
+  text-align: center;
+  z-index: 2;
+  position: relative;
+}
+
+.react-multi-carousel-dot button {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  opacity: 1;
+  padding: 5px 5px 5px 5px;
+  box-shadow: none;
+  transition: background 0.5s;
+  border-width: 2px;
+  border-style: solid;
+  border-color: grey;
+  padding: 0;
+  margin: 0;
+  margin-right: 6px;
+  outline: 0;
+  cursor: pointer;
+}
+
+.react-multi-carousel-dot--active button {
+  background: #0033ff;
+  width: 20px;
+  height: 5px;
+}
+
+.teamimg {
+  width: 100%;
+}
+
+.faq-container {
+  margin-bottom: 300px;
+}
+
+.faqbg {
+  background: url("../images/Vector\ 5.png") no-repeat;
+  background-size: contain;
+  background-position: 55%;
+  height: 200px;
+}
+
+.accordion-item {
+  background-color: #ffffff00;
+  border: 1 px solid grey;
+  margin-top: 20px;
+}
+
+.accordion-body {
+  border: 1px solid grey;
+  border-top: none;
+}
+
+.accordion-button {
+  color: #ffffff;
+  background-color: #fff00000;
+  border: 1px solid grey;
+}
+
+.accordion-button:not(.collapsed) {
+  color: #ffffff;
+  background-color: #e7f1ff00;
+}
+
+.accordion-button:focus {
+  border-color: #86b7fe00;
+}
+
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+  .form-mg {
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 1400px) {
+}
